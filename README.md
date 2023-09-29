@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a PhD student at Beijing Institute of Genomics, Chinese Academy of Science.🧑🏻‍🎓
+I'm currently working on population genetics and single cell genomics.🧬
 
 <!--
 **Antidington/Antidington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
